@@ -19,5 +19,5 @@ An intelligent backend service built with Python and Flask that combines Compute
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Citrus-Disease-Detection.git](https://github.com/YourUsername/Citrus-Disease-Detection.git)
+   git clone [https://github.com/YourUsername/Citrus-Disease-Detection.git](https://github.com/bilalneedscodes/Citrus-Disease-Detection.git)
    cd Citrus-Disease-Detection/backend
